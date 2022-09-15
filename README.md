@@ -1,6 +1,5 @@
 # Cookie Clicker
 
-    > git clone https://github.com/bmajdan/react-cookie-clicker.git
     > cd react-cookie-clicker
     > npm install
     > npm start
